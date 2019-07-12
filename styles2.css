@@ -3,6 +3,9 @@ html {
 }
 
 body {
+  font-family: "Roboto", "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+
   width: 100vw;
   height: 100vh;
   box-sizing: border-box;
@@ -67,4 +70,6 @@ body {
 
   color: white;
   background: #333a;
+
+  font-size: 1.2rem;
 }
